@@ -9,7 +9,7 @@ Anbei die Informationen zu unserer Projektgruppe im Sommersemester 2023 "Authent
 
 ## Slides
 
-* [Projektgruppenvorstellung](assets/files/pg_presentation_29-11-2022.pdf)
+* [Projektgruppenvorstellung]({% link assets/files/pg_presentation_29-11-2022.pdf %})
 
 ## Kontakt
 
