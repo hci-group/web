@@ -30,3 +30,6 @@ Wir prüfen, wie wir dies abmildern können und werden Sie bald an dieser Stelle
 ## Prüfungsmodalitäten
 
 Weitere Informationen folgen.
+
+
+**Letztes Update: 05.12.2022**
