@@ -4,6 +4,7 @@ title: Impressum
 permalink: /impressum/
 ---
 
+```
 Die Universität Duisburg-Essen (UDE) ist eine Körperschaft des Öffentlichen Rechts. Sie wird durch ihre Rektorin Prof. Dr. Barbara Albert gesetzlich vertreten.
 
 Zuständige Aufsichtsbehörde:
@@ -20,6 +21,7 @@ Universität Duisburg-Essen
 Universitätsstraße 2
 45141 Essen
 Tel.: 0201 183 0
-E-Mail: webredaktion@uni-due.org
+E-Mail: hci.group.essen@gmail.com
 
 Verantwortlich für den Webauftritt gemäß § 18 Abs. 2 MStV ist Prof. Dr. Stefan Schneegaß.
+```
