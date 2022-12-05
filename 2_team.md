@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Team
+title: Team & Kontakt
 permalink: /team/
 ---
 
