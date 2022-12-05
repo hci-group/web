@@ -8,3 +8,6 @@ categories: UDEoffline
 Diese Seite dient als Backup, solange die Universität offline ist.
 
 Neue Inhalte folgen bald.
+
+
+**Letztes Update: 05.12.2022**
