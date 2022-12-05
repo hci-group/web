@@ -9,6 +9,10 @@ categories: sose2023
 
 * Projektgruppenvorstellung
 
+## Kontakt
+
+* Jonathan Liebers
+
 ## Kontakt bei Fragen
 
 **Letztes Update: 05.12.2022**
