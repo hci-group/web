@@ -29,7 +29,9 @@ Wir prüfen, wie wir dies abmildern können und werden Sie bald an dieser Stelle
 
 ## Prüfungsmodalitäten
 
-Weitere Informationen folgen.
+Analog zur Übung in "Betriebssysteme" fand die Prüfung in den letzten Jahren als digitale Klausur statt, in welcher PDF-Dateien bearbeitet wurden.
+
+Sollte eine digitale Prüfung nicht möglich sein, werden wir die Prüfung auf Papier schreiben.
 
 
 **Letztes Update: 05.12.2022**
