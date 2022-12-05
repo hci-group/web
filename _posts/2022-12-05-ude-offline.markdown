@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Willkommen auf der Website der HCI-Group Essen (AG Schneegaß)!"
+title:  "Willkommen #UDEoffline"
 date:   2022-12-05 13:26:17 +0100
 categories: UDEoffline
 excerpt_separator: <!--more-->
