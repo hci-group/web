@@ -6,3 +6,6 @@ categories: wise202223
 ---
 
 Informationen folgen bald
+
+
+**Letztes Update: 05.12.2022**
