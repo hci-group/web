@@ -25,6 +25,11 @@ url: "https://hci-group.github.io" # the base hostname & protocol for your site,
 #github_username:  jekyll
 facebook_username: HCIEssen
 
+header_pages:
+ - team.md
+ - lehre.md
+ - impressum.md
+
 # Build settings
 markdown: kramdown
 theme: minima
