@@ -5,7 +5,10 @@ date:   2022-12-05 13:00:00 +0100
 categories: sose2023
 ---
 
-Informationen folgen bald
+## Slides
 
+* Projektgruppenvorstellung
+
+## Kontakt bei Fragen
 
 **Letztes Update: 05.12.2022**
