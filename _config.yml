@@ -17,8 +17,8 @@ title: HCI Group Essen (AG Schneegaß) #UDEoffline
 email: hci.group.essen@gmail.com
 page_excerpts: true
 description: >- # this means to ignore newlines until "baseurl:"
-  Willkommen zur Backup-Seite der HCI-Group Essen (AG Schneegaß) an der Universität Duisburg-Essen.
-  Diese Website dient als Backup, solange die Universität offline ist.
+  Dies ist die Website der HCI-Group Essen (AG Schneegaß) an der Universität Duisburg-Essen.
+  Diese Website dient als Fallback, solange die Universität offline ist.
 baseurl: "/web" # the subpath of your site, e.g. /blog
 url: "https://hci-group.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
