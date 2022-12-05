@@ -2,7 +2,6 @@
 layout: page
 title: Impressum
 permalink: /impressum/
-hidden: true
 ---
 
 Die Universität Duisburg-Essen (UDE) ist eine Körperschaft des Öffentlichen Rechts. Sie wird durch ihre Rektorin Prof. Dr. Barbara Albert gesetzlich vertreten.
