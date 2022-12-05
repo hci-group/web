@@ -5,6 +5,8 @@ date:   2022-12-05 13:00:00 +0100
 categories: sose2023
 ---
 
+Anbei die Informationen zu unserer Projektgruppe im Sommersemester 2023 "Authentication through Behavioral Biometrics in XR".
+
 ## Slides
 
 * Projektgruppenvorstellung
