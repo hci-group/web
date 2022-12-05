@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: HCI Group Essen (AG Schneegaß) \#UDEoffline
-email: your-email@example.com
+email: hci.group.essen@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Willkommen zur Backup-Seite der HCI-Group Essen (AG Schneegaß) an der Universität Duisburg-Essen.
   Diese Website dient als Backup, solange die Universität offline ist.
