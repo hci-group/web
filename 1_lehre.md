@@ -20,4 +20,4 @@ Per Klick gelangen Sie zu den Unterseiten.
 Im Sommersemester 2023 bieten wir nachfolgende Lehrveranstaltungen an.
 Per Klick gelangen Sie zu den Unterseiten.
 
-* [Projektgruppe (TODO-Projektgruppenname)](({% post_url 2023-04-01-projektgruppe-sose2023 %}))
+* [Projektgruppe (Authentication through Behavioral Biometrics in XR)](({% post_url 2023-04-01-projektgruppe-sose2023 %}))
