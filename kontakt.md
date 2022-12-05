@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Kontakt
-permalink: /kontakt/
+title: Team
+permalink: /team/
 ---
 
 Kontaktdaten folgen bald ...
