@@ -6,3 +6,6 @@ categories: sose2023
 ---
 
 Informationen folgen bald
+
+
+**Letztes Update: 05.12.2022**
