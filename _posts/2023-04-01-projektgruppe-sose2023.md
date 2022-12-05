@@ -13,7 +13,7 @@ Anbei die Informationen zu unserer Projektgruppe im Sommersemester 2023 "Authent
 
 ## Kontakt
 
-* <a href="javascript:window.location.href = 'mailto:' + [['jonathan', 'liebers.de'].join('-'), ['m','a','i','l'].join('')].reverse().join('@')">Jonathan Liebers</a>
+* Jonathan Liebers
 
 ## Kontakt bei Fragen
 
