@@ -11,3 +11,5 @@ Bei allen Anfragen bitte die nachfolgende Adresse kontaktieren:
 * hci.group.essen@gmail.com
 
 ## Team
+
+Informationen folgen bald.
