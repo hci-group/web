@@ -26,11 +26,6 @@ github_username:   hci-group
 facebook_username: HCIEssen
 youtube_username: hciessen692
 
-header_pages:
- - team.md
- - impressum.md
- - lehre.md
- - impressum.md
 
 # Build settings
 markdown: kramdown
