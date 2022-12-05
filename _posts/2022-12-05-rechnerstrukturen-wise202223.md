@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rechnerstrukturen (WS 2022/23)"
+title:  "Rechnerstrukturen (WiSe 2022/23)"
 date:   2022-12-05 14:01:00 +0100
 categories: wise202223
 ---
