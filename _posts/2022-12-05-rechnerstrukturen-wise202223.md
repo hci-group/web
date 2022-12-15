@@ -33,5 +33,8 @@ Analog zur Übung in "Betriebssysteme" fand die Prüfung in den letzten Jahren a
 
 Sollte eine digitale Prüfung nicht möglich sein, werden wir die Prüfung auf Papier schreiben.
 
+### Assembler Simulator
+
+Zum Üben von Assembler können Sie diese unsupportete Version des Simulators nutzen, bis unsere Version wieder verfügbar ist: https://schweigi.github.io/assembler-simulator/
 
 **Letztes Update: 05.12.2022**
