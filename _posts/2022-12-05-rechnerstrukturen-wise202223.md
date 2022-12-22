@@ -22,10 +22,11 @@ Wir arbeiten an einer Lösung zur Abmilderung des Problems.
 
 ## Prüfungszulassung
 
-Wir diskutieren aktuell ob wir die Fristen zur Bearbeitung der RS-Übung großzügig verlängern können oder ob wir die Bestehensgrenze für die Prüfungszulassung anpassen werden.
-Es ist noch keine Entscheidung getroffen worden.
-Es ist uns bekannt, dass die praktischen Logisim-Übungen und Assembler-Übungen gegenwärtig nicht bearbeitet werden können, und einigen Studierenden dadurch Punkte zur Erlangung der Zulassung im Rechnerstrukturen-Teil fehlen.
-Wir prüfen, wie wir dies abmildern können und werden Sie bald an dieser Stelle und im Moodle informieren.
+Die Prüfungszulassung für die Klausur "Rechnerstrukturen und Betriebssysteme" ist gegeben, wenn Sie die Prüfungszulassung im Teil Rechnerstrukturen und im Teil Betriebssysteme unabhängig voneinander erworben haben.
+
+Wir passen für den Teil "Rechnerstrukturen" die Zulassungsmodalität an. Anstatt 50 Punkte genügen nun 36 Punkte um die Rechnerstrukturen-Übung erfolgreich bestanden zu haben. Diese Punkte müssen im Moodle vermerkt sein.
+
+Diese Anpassung betrifft nicht die Modalitäten der Betriebssysteme-Übung. 
 
 ## Prüfungsmodalitäten
 
