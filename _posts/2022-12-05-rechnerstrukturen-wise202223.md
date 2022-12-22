@@ -38,4 +38,4 @@ Sollte eine digitale Prüfung nicht möglich sein, werden wir die Prüfung auf P
 
 Zum Üben von Assembler können Sie diese unsupportete Version des Simulators nutzen, bis unsere Version wieder verfügbar ist: https://schweigi.github.io/assembler-simulator/
 
-**Letztes Update: 05.12.2022**
+**Letztes Update: 22.12.2022**
