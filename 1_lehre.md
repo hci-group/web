@@ -12,7 +12,7 @@ Die jeweiligen Lehrmaterialien wurden hier entfernt und können wieder über Moo
 
 * Mensch-Computer Interaktion (MCI)
 * Seminar Ubiquitous Computing
-* [Rechnerstrukturen (und Betriebssysteme)]({% post_url /web/2022-12-05-rechnerstrukturen-wise202223 %})
+* [Rechnerstrukturen (und Betriebssysteme)]({% post_url 2022-12-05-rechnerstrukturen-wise202223 %})
 * Projektgruppe (SMART)
 
 # Sommersemester 2023
@@ -20,4 +20,4 @@ Die jeweiligen Lehrmaterialien wurden hier entfernt und können wieder über Moo
 Im Sommersemester 2023 bieten wir nachfolgende Lehrveranstaltungen an.
 Per Klick gelangen Sie zu den Unterseiten.
 
-* [Projektgruppe (Authentication through Behavioral Biometrics in XR)]({% post_url /web/2023-04-01-projektgruppe-sose2023 %})
+* [Projektgruppe (Authentication through Behavioral Biometrics in XR)]({% post_url 2023-04-01-projektgruppe-sose2023 %})
