@@ -11,12 +11,13 @@ Anbei finden Sie Informationen zum Rechnerstrukturen-Teil von "Rechnerstrukturen
 
 Liebe Studierende,
 
-es ist uns bekannt, dass Sie für Rechnerstrukturen die Übungen gegenwärtig nicht bearbeiten können.
-Wir arbeiten an einer Lösung zur Abmilderung des Problems.
+das Moodle steht wieder zur Verfügung und soll auch für das Modul wieder verwendet werden.
+
+Es ist uns bekannt, dass Sie für Rechnerstrukturen die Übungen gegenwärtig nur eingeschränkt bearbeiten können.
 
 ## Status Quo
 
-* Die Übungs- und Vorlesungsinhalte können in Moodle aus dem Intranet der Hochschule abgerufen werden.
+* Die Übungs- und Vorlesungsinhalte können in Moodle aus dem Intranet der Hochschule **und Internet** abgerufen werden.
 * Die Logisim-Übungen und Assembler-Übungen können aktuell nicht automatisch überprüft werden.
 * Alle sonstigen Übungen (IEEE 754, Takt, Zahlenkonversionen, KV, QMC) können im Moodle bearbeitet werden.
 
@@ -38,4 +39,4 @@ Sollte eine digitale Prüfung nicht möglich sein, werden wir die Prüfung auf P
 
 Zum Üben von Assembler können Sie diese unsupportete Version des Simulators nutzen, bis unsere Version wieder verfügbar ist: https://schweigi.github.io/assembler-simulator/
 
-**Letztes Update: 22.12.2022**
+**Letztes Update: 01.02.2023**

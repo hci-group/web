@@ -4,12 +4,18 @@ title: Team & Kontakt
 permalink: /team/
 ---
 
-## Allgemeine Kontaktadresse
+## UDE E-Mail Adressen
 
-Bei allen Anfragen bitte die nachfolgende Adresse kontaktieren:
+Es können wieder die bekannten UDE E-Mail Adressen verwendet werden.
+
+## Allgemeine Kontaktadresse 
+
+Bei allgemeinen Anfragen bitte die nachfolgende Adresse kontaktieren:
 
 * hci.group.essen@gmail.com
 
-## Team
+## Anfrage an Mitarbeitende
 
-Informationen folgen bald.
+Für Mitarbeitende gilt:
+
+* vorname.nachname@paluno.de
