@@ -12,7 +12,7 @@ Die jeweiligen Lehrmaterialien wurden hier entfernt und können wieder über Moo
 
 * Mensch-Computer Interaktion (MCI)
 * Seminar Ubiquitous Computing
-* [Rechnerstrukturen (und Betriebssysteme)]({% post_url 2022-12-05-rechnerstrukturen-wise202223 %})
+* [Rechnerstrukturen (und Betriebssysteme)]({{ site.baseurl }}{% post_url 2022-12-05-rechnerstrukturen-wise202223 %})
 * Projektgruppe (SMART)
 
 # Sommersemester 2023
